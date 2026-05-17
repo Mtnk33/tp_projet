@@ -7,8 +7,7 @@ RANDRIANAINA Fifalina Fernando
 
 RATSIRIMANANA Harimalala Freddy
 
-##Parcour & Niveau
-TELECOMMUNICATION  L3
+Parcour & Niveau : TELECOMMUNICATION  L3
 
 ## Description
 Serveur TCP simple développé en C sous Debian.
