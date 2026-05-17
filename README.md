@@ -1,9 +1,11 @@
 # Projet Serveur TCP
 
 ## Auteurs
--RAFANOMEZANTSOA Andy Nirina Anthonio
--RANDRIANAINA Fifalina Fernando
--RATSIRIMANANA Harimalala Freddy
+RAFANOMEZANTSOA Andy Nirina Anthonio
+
+RANDRIANAINA Fifalina Fernando
+
+RATSIRIMANANA Harimalala Freddy
 
 ##Parcour & Niveau
 TELECOMMUNICATION  L3
